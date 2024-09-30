@@ -1,1 +1,5 @@
-test
+{
+    "update_message": "New feature available: XYZ. Please update to the latest version.",
+    "version": "1.1.0",
+    "timestamp": "2024-09-30T12:00:00"
+}
